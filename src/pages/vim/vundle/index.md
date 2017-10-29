@@ -23,6 +23,7 @@ Some useful plugins to get you started are :
 - gitgutter
 - fugitive
 - delimitMate
+- Emmet-vim
 - and tons more !
 
 
